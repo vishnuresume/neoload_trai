@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=neoload_trai
+project.version=8.2
+project.original.version=8.2
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=7.9.1
+product.original.version=7.9.1
+project.id=86784caa-afba-4086-926b-5cfba062b08f
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
