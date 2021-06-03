@@ -1,0 +1,20 @@
+POST https://petstore.octoperf.com/actions/Account.action HTTP/2.0
+content-length: 233
+cache-control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"
+sec-ch-ua-mobile: ?0
+upgrade-insecure-requests: 1
+origin: https://petstore.octoperf.com
+content-type: application/x-www-form-urlencoded
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+referer: https://petstore.octoperf.com/actions/Account.action;jsessionid=76A7580509DAF983EEEADDD14A237A66?signonForm=
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cookie: JSESSIONID=76A7580509DAF983EEEADDD14A237A66
+
+username=j2ee&password=****************&signon=Login&_sourcePage=i8EIdAobdCDlWN53y_m05G-XIj_Mz4g_HVUHGn2h1XzbeoKj4gzYucauofXTdbJvL_UBD41l8ZAGDxXnfU0Cagvih59iVynr6YJbe5xxOxM%3D&__fp=O1vwWHlL6P20YSHSQ19ooB1bSMqvyufR70QY_JRUA1woeM3wKw6_IxuLoPSsADi5
